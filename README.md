@@ -12,6 +12,7 @@ In this work, we propose a novel Geometric Evolution Symbolic Regression(GESR) a
 2. Install PyCuda
 
 ## Usages
-You can run the codes using the following commands:
+You can run the codes using the following commands:    
+    
 `Python ./autorun.py -save_file [path\to\save\file] -dataset_dir[path\of\dataset]`
 
