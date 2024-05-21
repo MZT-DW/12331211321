@@ -1,4 +1,5 @@
-# XXX
+# GESR: A Geometric Evolution Model for Symbolic Regression  
+  
 This repository is the official implementation of "XXXX"
   
 ![image](https://github.com/MZT-DW/12331211321/blob/main/PyGP/Results/strogatz_bacres1.gif)
