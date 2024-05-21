@@ -13,6 +13,5 @@ In this work, we propose a novel Geometric Evolution Symbolic Regression(GESR) a
 
 ## Usages
 You can run the codes using the following commands:
-```
-> python autorun.py 
-```
+`Python ./autorun.py -save_file [path\to\save\file] -dataset_dir[path\of\dataset]`
+
