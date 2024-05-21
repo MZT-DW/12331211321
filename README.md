@@ -1,5 +1,5 @@
 # Source code
-
+![image](https://github.com/MZT-DW/12331211321/blob/main/PyGP/Results/strogatz_bacres1.gif)
 
 ## Abstract
 Symbolic regression is a challenging task in machine learning that aims to automatically discover highly interpretable mathematical equations from limited data. Keen efforts have been devoted to addressing this issue, yielding promising results. However, there are still bottlenecks that current methods struggle with, especially when dealing with complex problems containing various noises or with intricate underlying mathematical formulas.
