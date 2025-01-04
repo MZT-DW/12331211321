@@ -1,0 +1,145 @@
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/Software/anaconda3/envs/PYGP/lib/python3.11/site-packages/numpy/core/_methods.py:118:RuntimeWarning:invalid value encountered in reduce
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
+/home/mazt/my_codes/GESR/PyGP/population.py:868:RuntimeWarning:invalid value encountered in scalar divide
